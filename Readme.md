@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Виталий Берсенев](https://up.htmlacademy.ru/htmlcss/21/user/774885).
-* Наставник: `Неизвестно`.
+* Наставник: [Никита Сигов](https://htmlacademy.ru/profile/crazer).
 
 ---
 
